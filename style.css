@@ -461,5 +461,6 @@ footer p {
     footer {
         flex-direction: column;
         text-align: center;
+        display: flex;
     }
 }
